@@ -1,0 +1,7 @@
+{
+  "name": "AuraStylist - AI Virtual Wardrobe & Outfit Generator",
+  "description": "Upload any piece of clothing and let AI generate 3 editorial flat-lay outfit options (Casual, Business, Night Out) complete with color analysis and expert styling tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
